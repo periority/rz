@@ -98,7 +98,7 @@ dist
 .fusebox/
 
 # DynamoDB Local files
-.dynamodb/
+.dynamodb
 
 # TernJS port file
 .tern-port
@@ -107,7 +107,7 @@ dist
 .DS_Store
 
 # python
-pycache
+pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
